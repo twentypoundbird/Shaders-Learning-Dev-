@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Material green
+  m_Shader: {fileID: 4800000, guid: bb84e7073276fd9439ee0705b8378caa, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _ColorEnd: 0.819
+    - _ColorStart: 0.224
+    - _Offset: 0.34
+    - _Scale: 1
+    - _Value: 1
+    m_Colors:
+    - _Color: {r: 0.6186914, g: 0.990566, b: 0.41585082, a: 1}
+    - _ColorA: {r: 1, g: 0.15566039, b: 0.15566039, a: 1}
+    - _ColorB: {r: 0.2971698, g: 0.6034311, b: 1, a: 1}
+  m_BuildTextureStacks: []
