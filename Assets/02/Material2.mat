@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Material red
-  m_Shader: {fileID: 4800000, guid: bb84e7073276fd9439ee0705b8378caa, type: 3}
+  m_Name: Material2
+  m_Shader: {fileID: 4800000, guid: bbe8122d3c760e74caf631b4cb0a5763, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -22,7 +22,12 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
+    - _ColorEnd: 1
+    - _ColorStart: 0
     - _Value: 1
+    - _XOffset: 0
     m_Colors:
     - _Color: {r: 1, g: 0.2688679, b: 0.2688679, a: 1}
+    - _ColorA: {r: 0.33205768, g: 0.7487491, b: 0.7735849, a: 1}
+    - _ColorB: {r: 0, g: 0.030928556, b: 0.1792453, a: 1}
   m_BuildTextureStacks: []
